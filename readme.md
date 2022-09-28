@@ -1,1 +1,3 @@
 Hi! This is my first Java package that I wrote for my Java class' first assignment. This code was written by me with no hand holding by the professor.
+
+The objective of this homework assignment was to use inheritance and polymorphism to create a "system" that lets you enter info for a student, indicate if they are an in-person or remote student, their grades for the semester (midterm, final, assignments, discussions), and their final weighted grade for the course.
