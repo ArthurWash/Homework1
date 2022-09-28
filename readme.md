@@ -1,0 +1,1 @@
+Hi! This is my first Java package that I wrote for my Java class' first assignment. This code was written by me with no hand holding by the professor.
