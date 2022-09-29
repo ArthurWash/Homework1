@@ -1,11 +1,6 @@
 import java.util.Scanner;
 
 public class RemoteStudents extends Students {
-    private double midterm;
-    private double finals;
-    private double assignments;
-    private double discussions;
-
     // Constructor: Using parent constructor to create remote student profile
     public RemoteStudents(int Id, String Name, String Type){
         super(Id, Name, Type);

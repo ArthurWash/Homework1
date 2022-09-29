@@ -2,6 +2,10 @@ abstract public class Students {
     protected int id;
     protected String name;
     protected String type;
+    protected double midterm;
+    protected double finals;
+    protected double assignments;
+    protected double discussions;
 
     // Constructor: Sets up a Student's profile
     public Students(int Id, String Name, String Type){

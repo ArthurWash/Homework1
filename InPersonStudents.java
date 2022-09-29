@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 public class InPersonStudents extends Students {
-    private double midterm;
-    private double finals;
-    private double assignments;
 
     // Using Parent Constructor to create in person student profile
     public InPersonStudents(int Id, String Name, String Type){
